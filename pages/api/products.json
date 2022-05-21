@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "starter ",
+    "price": "0.01",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "description": "new starter pack code",
+    "filename": "FirstDapp-Starter.zip",
+    "hash": "QmY7YJZZu9GT4Uq8RtTAEmikTy7q8nmpN136z4hGry7UVL"
+  }
+]
